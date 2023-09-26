@@ -23,7 +23,7 @@ This one is the 0-1 Knapsack problem.
    ans. The answer changes in certain cases.
 
 4. ques. Would the value of a column ever go down? <br>
-   ans. No, because at every iteration, you are storing the max estimate and the estimate can never get orse than it as before.
+   ans. No, because at every iteration, you are storing the max estimate and the estimate can never get worse than it was before.
 
 
 ### 1.2. Longest Common Substring / Longest Common Subsequences
