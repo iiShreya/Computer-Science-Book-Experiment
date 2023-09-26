@@ -1,4 +1,4 @@
-## 1. Dynamic Programming:
+## 1. Dynamic Programming ( *It's not always smart to be greedy* ):
 1. Dynamic Programming starts by solving sub-problems and builds up to solving the big problem.
 2. It is useful when trying to optimize something given a constraint.
 3. Every DP solution involves a grid. And the values in the grid are what you're trying to optimize. The cells in the grid are the sub-problems.
