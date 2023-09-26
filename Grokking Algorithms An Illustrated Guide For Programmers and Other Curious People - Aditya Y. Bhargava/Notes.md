@@ -13,7 +13,7 @@ This is just a funny way of saying there's no hard defined formula for all DP qu
 ### 1.1. The Knapsack Problem:
 This one is the 0-1 Knapsack problem.
 #### Some Intriguing Questions:
-1. ques. What happens if you change the order of the rows? <\b>
+1. ques. What happens if you change the order of the rows? <br>
    ans. The answer remains the same, order of rows doesn't matter.
 
 2. ques. Can you fill the grid column-wise instaed of row-wies?
