@@ -10,5 +10,20 @@
 This is just a funny way of saying there's no hard defined formula for all DP questions.
    
 
-### 1.1. The Knapsack Problem
+### 1.1. The Knapsack Problem:
+This one is the 0-1 Knapsack problem.
+#### Some Intriguing Questions:
+1. ques. What happens if you change the order of the rows?
+   ans. The answer remains the same, order of rows doesn't matter.
+
+2. ques. Can you fill the grid column-wise instaed of row-wies?
+   ans. For knapsack, it doesn't make a difference. For other problems, it might.
+
+3. ques. What happens if you add an item?
+   ans. The answer changes in certain cases.
+
+4. ques. Would the value of a column ever go down?
+   ans. No, because at every iteration, you are storing the max estimate and the estimate can never get orse than it as before.
+
+
 ### 1.2. Longest Common Substring / Longest Common Subsequences
