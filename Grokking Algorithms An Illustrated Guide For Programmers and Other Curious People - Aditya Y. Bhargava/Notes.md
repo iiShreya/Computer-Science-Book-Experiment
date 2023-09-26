@@ -16,13 +16,13 @@ This one is the 0-1 Knapsack problem.
 1. ques. What happens if you change the order of the rows? <br>
    ans. The answer remains the same, order of rows doesn't matter.
 
-2. ques. Can you fill the grid column-wise instaed of row-wies?
+2. ques. Can you fill the grid column-wise instaed of row-wies? <br>
    ans. For knapsack, it doesn't make a difference. For other problems, it might.
 
-3. ques. What happens if you add an item?
+3. ques. What happens if you add an item? <br>
    ans. The answer changes in certain cases.
 
-4. ques. Would the value of a column ever go down?
+4. ques. Would the value of a column ever go down? <br>
    ans. No, because at every iteration, you are storing the max estimate and the estimate can never get orse than it as before.
 
 
